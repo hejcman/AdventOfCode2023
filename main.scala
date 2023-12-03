@@ -1,6 +1,6 @@
 package aoc2023
 
-object MyApp {
+object AoC2023 {
 
   def main(args: Array[String]): Unit = {
     // val day1_part1 = Day1.part1(Utils.getFileString("inputs/1.txt"))
