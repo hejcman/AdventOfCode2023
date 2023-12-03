@@ -1,0 +1,12 @@
+# Scala build directories
+.bsp
+.metals
+.scala-build
+
+# IDE Directories
+.vscode
+
+# Others
+output
+*.tmp
+*.bak
